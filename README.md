@@ -1,4 +1,4 @@
-# Applicazione Parkwink
+# Parkwink
 
 Parkwink è un'applicazione di gestione dei parcheggi che gestisce un parcheggio automatizzato. I sistemi che lo
 integrano possono: autenticarsi, gestire i posti auto e gestire i biglietti del parcheggio.
